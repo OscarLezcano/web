@@ -32,14 +32,11 @@ Ser reconocidos como el principal centro de innovación estudiantil a nivel acad
 
 ## Estructura
 
-El Club se organiza en cuatro departamentos operacionales:
-
-- **Proyectos** — hoja de ruta técnica: talleres, eventos, mentoría y desarrollo.
-- **Logística** — ejecución operativa de eventos e infraestructura.
-- **Comunicación** — contenidos, marca y redes sociales.
-- **Relaciones Exteriores** — alianzas, patrocinios y vínculos con empresas.
-
 La dirección recae en una Comisión Directiva (Presidente, Vicepresidente, Secretario General, Tesorero), elegida por la Asamblea General de Miembros Activos.
+
+| Periodo   | Presidente   | Vicepresidente  | Secretaría General | Tesorería     |
+| --------- | ------------ | --------------- | ------------------ | ------------- |
+| 2026/2027 | Adán Alvarez | Alan Valenzuela | Heber Aranda       | Noelia Rotela |
 
 ## Domicilio
 
