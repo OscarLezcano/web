@@ -4,7 +4,7 @@ export default defineAstroPaperConfig({
   site: {
     url: "https://cdi.mbeju.xyz/",
     title: "Club de Informática - FIUNI",
-    description: "Sitio oficial del Club de Informática de la Facultad de Ingeniería de la Universidad Nacional de Itapúa. Leé nuestros artículos y conocé más sobre nosotros",
+    description: "Sitio oficial del Club de Informática de la FIUNI. Leé nuestros artículos y conocé más sobre nosotros",
     author: "Adán Alvarez",
     profile: undefined,
     ogImage: "default-og.jpg",
