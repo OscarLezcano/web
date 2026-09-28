@@ -1,16 +1,16 @@
 ---
-name: "\U0001F4DD Documentation Improvement"
-about: Propose updates or improvements to the documentation/blog posts
+name: "📝 Mejora en la documentación"
+about: Proponé actualizaciones o mejoras para la documentación o las publicaciones del blog
 title: "[Docs]: "
 labels: documentation
 assignees: ""
 ---
 
-**Describe the Issue**
-A clear and concise description of the documentation issue or improvement.
+**Describí el problema**
+Una descripción clara y concisa del problema o mejora de la documentación.
 
-**Proposed Changes**
-Describe what changes should be made and why they would improve the documentation.
+**Cambios propuestos**
+Describí qué cambios se deberían hacer y por qué mejorarían la documentación.
 
-**Additional Context**
-Add any other context or screenshots about the documentation request here.
+**Contexto adicional**
+Agregá cualquier otro contexto o capturas de pantalla sobre la solicitud de documentación acá.

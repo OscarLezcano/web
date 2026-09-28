@@ -1,19 +1,19 @@
 ---
-name: "✨ Feature Request"
-about: Suggest an idea for improving AstroPaper
-title: "[Feature Request]: "
+name: "✨ Solicitud de funcionalidad"
+about: Sugerí una idea para mejorar AstroPaper
+title: "[Solicitud de funcionalidad]: "
 labels: enhancement
 assignees: ""
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**¿Tu solicitud está relacionada con algún problema? Por favor, describilo.**
+Una descripción clara y concisa de cuál es el problema. Ej. Siempre me frustro cuando [...]
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Describí la solución que te gustaría**
+Una descripción clara y concisa de lo que querés que pase.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Describí las alternativas que consideraste**
+Una descripción clara y concisa de cualquier solución o característica alternativa que hayas considerado.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Contexto adicional**
+Agregá cualquier otro contexto o capturas de pantalla sobre la solicitud acá.

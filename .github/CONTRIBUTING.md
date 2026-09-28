@@ -1,55 +1,56 @@
-# How to contribute to AstroPaper
+# Cómo contribuir a CDI WEB
 
-Thank you for your interest in contributing to **AstroPaper**! We appreciate every contribution, whether you're fixing a typo, improving documentation, or adding a new feature.
+¡Gracias por tu interés en contribuir a **CDI WEB**! Apreciamos cada contribución, ya sea que estés corrigiendo un error tipográfico, mejorando la documentación o agregando una nueva funcionalidad.
 
-## Types of Contributions
+## Tipos de contribuciones
 
-There are several ways to contribute to **AstroPaper**, and every contribution counts\_ whether it's a PR for a major feature or a small fix.
+Hay varias formas de contribuir a **CDI WEB**, y cada aporte cuenta — ya sea un PR para una gran funcionalidad o una pequeña corrección.
 
-You can also contribute by leaving review comments on PRs, adding ideas to existing GitHub Issues and Discussions, or helping others by answering questions in GitHub Discussions.
+También podés contribuir dejando comentarios de revisión en los PRs, agregando ideas a los Issues y Discussions existentes en GitHub, o ayudando a otros respondiendo preguntas en las Discussions de GitHub.
 
-Here’s a summary of the different ways you can contribute:
+Acá tenés un resumen de las distintas formas en las que podés contribuir:
 
-- [Opening a new issue](#open-a-new-issue)
-- [Submitting PRs](#feature-requests)
-  - [Solving an existing issue](#solving-an-issue)
-  - [Making changes to a blog post](#making-changes-to-a-blog-post)
-- [Helping others by answering issues/discussions](#helping-with-github-issuesdiscussions)
-- [Reviewing existing PRs](#reviewing-existing-prs)
-- [Starting a discussion](#starting-a-discussion)
+- [Abrir un nuevo issue](https://www.google.com/search?q=%23abrir-un-nuevo-issue)
+- [Enviar PRs (Pull Requests)](https://www.google.com/search?q=%23solicitudes-de-funcionalidad-feature-requests)
+- [Resolver un issue existente](https://www.google.com/search?q=%23resolver-un-issue-existente)
+- [Hacer cambios en una publicación del blog](https://www.google.com/search?q=%23hacer-cambios-en-una-publicaci%C3%B3n-del-blog)
 
-## Open a new Issue
+- [Ayudar a otros respondiendo en issues/discussions](https://www.google.com/search?q=%23ayudar-con-los-issues-y-discussions-de-github)
+- [Revisar PRs existentes](https://www.google.com/search?q=%23revisar-prs-existentes)
+- [Iniciar una discusión](https://www.google.com/search?q=%23iniciar-una-discusi%C3%B3n)
 
-If you find a bug or problem, first check whether a similar issue already exists. If you don’t find any open issue that addresses the bug/problem you’re facing, feel free to [open a new issue](https://github.com/satnaing/astro-paper/issues/new/choose).
+## Abrir un nuevo Issue
 
-## Feature Requests
+Si encontrás un error o problema, primero verificá si ya existe un issue similar. Si no encontrás ningún issue abierto que aborde el error/problema que tenés, sentite libre de [abrir un nuevo issue](https://www.google.com/search?q=https://github.com/cdi-fiuni/web/issues/new/choose).
 
-If you have an idea for a new feature or enhancement that could improve AstroPaper, we’d love to hear it! Before submitting a new feature request, please:
+## Solicitudes de funcionalidad
 
-1. **Check existing discussions/issues**: Review the [Discussions](https://github.com/satnaing/astro-paper/discussions) or [Issues](https://github.com/satnaing/astro-paper/issues) to see if the feature has already been requested or discussed. You can contribute by adding your thoughts or upvoting existing requests.
-2. **Open a new issue**: If you don’t find an existing discussion, you can open a new issue using the [Feature Request Template](https://github.com/satnaing/astro-paper/issues/new?assignees=&labels=enhancement&projects=&template=%E2%9C%A8-feature-request.md&title=%5BFeature+Request%5D%3A+). Be as detailed as possible, describing the problem this feature would solve and how it would benefit AstroPaper users.
-3. **Discuss first**: If you’re unsure whether your idea is feasible or fits the project’s goals, feel free to [start a GitHub Discussion](https://github.com/satnaing/astro-paper/discussions/new/choose) to gather feedback from the community.
+Si tenés una idea para una nueva funcionalidad o mejora que pueda mejorar CDI WEB, ¡nos encantaría escucharla! Antes de enviar una nueva solicitud de funcionalidad, por favor:
 
-## Making PRs (Pull Requests)
+1. **Verificá las discussions/issues existentes**: Revisá las [Discussions](https://www.google.com/search?q=https://github.com/cdi-fiuni/web/discussions) o los [Issues](https://www.google.com/search?q=https://github.com/cdi-fiuni/web/issues) para ver si la funcionalidad ya fue solicitada o discutida. Podés contribuir agregando tus opiniones o votando a favor de las solicitudes existentes.
+2. **Abrir un nuevo issue**: Si no encontrás una discusión existente, podés abrir un nuevo issue usando la [Plantilla de solicitud de funcionalidad](https://www.google.com/search?q=https://github.com/cdi-fiuni/web/issues/new%3Fassignees%3D%26labels%3Denhancement%26projects%3D%26template%3D%25E2%259C%25A8-feature-request.md%26title%3D%255BSolicitud%2Bde%2Bfuncionalidad%255D%253A%2B). Sé lo más detallado posible, describiendo el problema que esta funcionalidad resolvería y cómo beneficiaría a los usuarios de CDI WEB.
+3. **Discutilo primero**: Si no estás seguro de si tu idea es viable o se adapta a los objetivos del proyecto, sentite libre de [iniciar una discusión en GitHub](https://www.google.com/search?q=https://github.com/cdi-fiuni/web/discussions/new/choose) para recopilar comentarios de la comunidad.
 
-### Solving an Issue
+## Enviar PRs (Pull Requests)
 
-Browse through the existing issues to find one that interests you. You can use labels to filter the issues. See the [Label](https://github.com/satnaing/astro-paper/labels) section for more information.
+### Resolver un issue
 
-### Making Changes to a Blog Post
+Navegá a través de los issues existentes para encontrar uno que te interese. Podés usar etiquetas (_labels_) para filtrar los issues. Mirá la sección de [Etiquetas](https://www.google.com/search?q=https://github.com/cdi-fiuni/web/labels) para más información.
 
-For small changes like typos, syntax fixes, or broken links, click the "Suggest Changes" link below the title of any blog post. This will take you to the .md file, where you can make your changes and submit a pull request for review. For more significant changes to a blog post, it’s recommended to open a new issue or discussion first.
+### Hacer cambios en una publicación del blog
 
-## Helping with GitHub Issues/Discussions
+Para cambios pequeños como errores tipográficos, correcciones de sintaxis o enlaces rotos, hacé clic en el enlace "Sugerir cambios" (_Suggest Changes_) debajo del título de cualquier publicación del blog. Esto te llevará al archivo `.md`, donde podés hacer tus cambios y enviar un _pull request_ para su revisión. Para cambios más importantes en una publicación del blog, se recomienda abrir primero un nuevo issue o discusión.
 
-GitHub Discussions and Issues are great places to help others. Whether you're a long-time user of AstroPaper or just have experience with a specific problem, we encourage you to answer questions or solve issues when possible.
+## Ayudar con los Issues y Discussions de GitHub
 
-## Reviewing Existing PRs
+Las Discussions e Issues de GitHub son excelentes lugares para ayudar a otros. Ya sea que seas un usuario de larga data de CDI WEB o que recién tengas experiencia con un problema específico, te animamos a responder preguntas o resolver issues cuando sea posible.
 
-You can help by reviewing and providing feedback on open PRs. Different perspectives can be very helpful.
+## Revisar PRs existentes
 
-Since AstroPaper doesn’t currently have automated testing, it’s especially useful if you can do manual testing on open PRs and provide feedback.
+Podés ayudar revisando y dando opiniones sobre los PRs abiertos. Las diferentes perspectivas pueden ser muy útiles.
 
-## Starting a Discussion
+Dado que CDI WEB actualmente no cuenta con pruebas automáticas, es especialmente útil si podés hacer pruebas manuales en los PRs abiertos y dar tu opinión.
 
-If you’re unsure whether your issue warrants a fix or if you just want to share ideas and get feedback, feel free to [start a GitHub discussion](https://github.com/satnaing/astro-paper/discussions/new/choose). It’s a great way to engage with the community.
+## Iniciar una discusión
+
+Si no estás seguro de si tu problema amerita una corrección o si simplemente querés compartir ideas y obtener opiniones, sentite libre de [iniciar una discusión en GitHub](https://www.google.com/search?q=https://github.com/cdi-fiuni/web/discussions/new/choose). Es una excelente manera de interactuar con la comunidad.

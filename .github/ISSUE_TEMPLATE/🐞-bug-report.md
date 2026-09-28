@@ -1,27 +1,27 @@
 ---
-name: "\U0001F41E Bug report"
-about: Report a bug or unexpected behavior in AstroPaper
+name: "🐞 Reporte de error"
+about: Reportá un error o un comportamiento inesperado en AstroPaper
 title: "[BUG]: "
 labels: bug
 assignees: ""
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Describí el error**
+Una descripción clara y concisa de cuál es el error.
 
-**To Reproduce**
-Steps to reproduce the behavior:
+**Pasos para reproducir**
+Pasos para reproducir el comportamiento:
 
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+1. Andá a '...'
+2. Hacé clic en '....'
+3. Desplazate hacia abajo hasta '....'
+4. Vas a ver el error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Comportamiento esperado**
+Una descripción clara y concisa de lo que esperabas que pase.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Capturas de pantalla**
+Si corresponde, agregá capturas de pantalla para ayudar a explicar tu problema.
 
-**Additional context**
-Add any other context about the problem here.
+**Contexto adicional**
+Agregá cualquier otro contexto sobre el problema acá.
