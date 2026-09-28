@@ -2,7 +2,7 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://cdi.fiuni.edu.py/",
+    url: "https://cdi.mbeju.xyz/",
     title: "Club de Informática - FIUNI",
     description: "Sitio oficial del Club de Informática de la Facultad de Ingeniería de la Universidad Nacional de Itapúa. Leé nuestros artículos y conocé más sobre nosotros",
     author: "Adán Alvarez",
