@@ -46,11 +46,28 @@ export interface UIStrings {
     postsTitle: string;
     postsDesc: string;
 
+    eventsTitle: string;
+    eventsDesc: string;
+
     archivesTitle: string;
     archivesDesc: string;
 
     searchTitle: string;
     searchDesc: string;
+  };
+  event: {
+    dateLabel: string;
+    timeLabel: string;
+    locationLabel: string;
+    presentersLabel: string;
+    tagLabel: string;
+    modeLabel: string;
+    noUpcoming: string;
+    mode: {
+      "in-person": string;
+      online: string;
+      hybrid: string;
+    };
   };
   a11y: {
     skipToContent: string;

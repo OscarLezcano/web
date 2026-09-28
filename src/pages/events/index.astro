@@ -1,0 +1,36 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Breadcrumb from "@/components/Breadcrumb.astro";
+import Main from "@/components/Main.astro";
+import Footer from "@/components/Footer.astro";
+import EventCard from "@/components/EventCard.astro";
+import { getSortedEvents } from "@/utils/getSortedEvents";
+import { useTranslations } from "@/i18n";
+import config from "@/config";
+
+const locale = Astro.currentLocale ?? config.site.lang;
+const t = useTranslations(locale);
+
+const events = await getCollection("events");
+const sortedEvents = getSortedEvents(events);
+---
+
+<Layout title={`${t.pages.eventsTitle} | ${config.site.title}`}>
+  <Header />
+
+  <Breadcrumb />
+
+  <Main pageTitle={t.pages.eventsTitle} pageDesc={t.pages.eventsDesc}>
+    {sortedEvents.length > 0 ? (
+      <ul>
+        {sortedEvents.map(event => <EventCard {...event} />)}
+      </ul>
+    ) : (
+      <p>{t.event.noUpcoming}</p>
+    )}
+  </Main>
+
+  <Footer />
+</Layout>

@@ -29,10 +29,11 @@ export default defineAstroPaperConfig({
     search: "pagefind",
   },
   socials: [
+    { name: "instagram",   url: "https://www.instagram.com/clubdeinformaticafiuni" },
     { name: "github",   url: "https://github.com/cdi-fiuni" },
     // { name: "x",        url: "https://x.com/username" },
-    { name: "linkedin", url: "https://www.linkedin.com/in/clubdeinformatica/" },
-    { name: "mail",     url: "mailto:info@cdi.fiuni.edu.py" },
+    // { name: "linkedin", url: "https://www.linkedin.com/in/clubdeinformatica/" },
+    { name: "mail",     url: "mailto:adan.alvarez@fiuni.edu.py" },
   ],
   shareLinks: [
     { name: "whatsapp", url: "https://wa.me/?text=" },

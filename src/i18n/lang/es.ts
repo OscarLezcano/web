@@ -48,11 +48,28 @@ export default {
     postsTitle: "Posts",
     postsDesc: "Todos los posts publicados.",
 
+    eventsTitle: "Eventos",
+    eventsDesc: "Todos los eventos organizados por el club.",
+
     archivesTitle: "Archivos",
     archivesDesc: "Todos los posts archivados.",
 
     searchTitle: "Buscar",
     searchDesc: "Busca cualquier artículo ...",
+  },
+  event: {
+    dateLabel: "Fecha",
+    timeLabel: "Hora",
+    locationLabel: "Ubicación",
+    presentersLabel: "Ponentes",
+    tagLabel: "Etiqueta",
+    modeLabel: "Modalidad",
+    noUpcoming: "Aún no hay eventos programados.",
+    mode: {
+      "in-person": "Presencial",
+      online: "En línea",
+      hybrid: "Híbrido",
+    },
   },
   a11y: {
     skipToContent: "Saltar al contenido",

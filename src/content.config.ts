@@ -4,6 +4,7 @@ import { glob } from "astro/loaders";
 import config from "@/config";
 
 export const BLOG_PATH = "src/content/posts";
+export const EVENT_PATH = "src/content/events";
 
 const posts = defineCollection({
   loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: `./${BLOG_PATH}` }),
@@ -15,7 +16,7 @@ const posts = defineCollection({
       title: z.string(),
       featured: z.boolean().optional(),
       draft: z.boolean().optional(),
-      tags: z.array(z.string()).default(["others"]),
+      tags: z.array(z.string()).default(["otros"]),
       ogImage: image().or(z.string()).optional(),
       description: z.string(),
       canonicalURL: z.string().optional(),
@@ -34,4 +35,20 @@ const pages = defineCollection({
   }),
 });
 
-export const collections = { posts, pages };
+const events = defineCollection({
+  loader: glob({ pattern: "**/[^_]*.{md,mdx}", base: `./${EVENT_PATH}` }),
+  schema: z.object({
+    title: z.string(),
+    date: z.date().optional().nullable(),
+    description: z.string().optional().nullable(),
+    location: z.string().optional().nullable(),
+    time: z.string().optional().nullable(),
+    presenters: z.array(z.string()).optional().nullable(),
+    tags: z.array(z.string()).default(["otros"]),
+    mode: z.enum(["in-person", "online", "hybrid"]).optional().nullable(),
+    timezone: z.string().optional().nullable(),
+    draft: z.boolean().optional(),
+  }),
+});
+
+export const collections = { posts, pages, events };

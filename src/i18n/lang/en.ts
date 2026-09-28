@@ -48,11 +48,28 @@ export default {
     postsTitle: "Posts",
     postsDesc: "All the articles I've posted.",
 
+    eventsTitle: "Events",
+    eventsDesc: "All the events the club is hosting.",
+
     archivesTitle: "Archives",
     archivesDesc: "All the articles I've archived.",
 
     searchTitle: "Search",
     searchDesc: "Search any article ...",
+  },
+  event: {
+    dateLabel: "Date",
+    timeLabel: "Time",
+    locationLabel: "Location",
+    presentersLabel: "Presenters",
+    tagLabel: "Tag",
+    modeLabel: "Mode",
+    noUpcoming: "No events scheduled yet.",
+    mode: {
+      "in-person": "In-person",
+      online: "Online",
+      hybrid: "Hybrid",
+    },
   },
   a11y: {
     skipToContent: "Skip to content",

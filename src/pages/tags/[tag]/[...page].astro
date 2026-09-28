@@ -1,29 +1,46 @@
 ---
-import { getCollection } from "astro:content";
+import { type CollectionEntry, getCollection } from "astro:content";
 import type { GetStaticPathsOptions } from "astro";
 import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
 import Main from "@/components/Main.astro";
 import Breadcrumb from "@/components/Breadcrumb.astro";
 import Card from "@/components/Card.astro";
+import EventCard from "@/components/EventCard.astro";
 import Footer from "@/components/Footer.astro";
 import Pagination from "@/components/Pagination.astro";
 import { getUniqueTags } from "@/utils/getUniqueTags";
-import { getSortedPosts } from "@/utils/getSortedPosts";
 import { slugifyAll } from "@/utils/slugify";
 import { useTranslations } from "@/i18n";
 import config from "@/config";
 
+type TagListEntry = CollectionEntry<"posts"> | CollectionEntry<"events">;
+
 export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
-  const posts = await getCollection("posts", ({ data }) => !data.draft);
-  const tags = getUniqueTags(posts);
+  const [posts, events] = await Promise.all([
+    getCollection("posts", ({ data }) => !data.draft),
+    getCollection("events", ({ data }) => !data.draft),
+  ]);
+  const tags = getUniqueTags(posts, events);
+
+  const getEntryTime = (entry: TagListEntry): number =>
+    entry.collection === "events"
+      ? entry.data.date?.getTime() ?? 0
+      : new Date(entry.data.modDatetime ?? entry.data.pubDatetime).getTime();
 
   return tags.flatMap(({ tag, tagName }) => {
-    const tagPosts = getSortedPosts(
-      posts.filter(({ data }) => slugifyAll(data.tags).includes(tag))
+    const tagPosts: TagListEntry[] = posts.filter(({ data }) =>
+      slugifyAll(data.tags).includes(tag)
+    );
+    const tagEvents: TagListEntry[] = events.filter(({ data }) =>
+      slugifyAll(data.tags).includes(tag)
     );
 
-    return paginate(tagPosts, {
+    const entries = [...tagPosts, ...tagEvents].sort(
+      (a, b) => getEntryTime(b) - getEntryTime(a)
+    );
+
+    return paginate(entries, {
       params: { tag },
       props: { tagName },
       pageSize: config.posts.perPage,
@@ -47,7 +64,13 @@ const t = useTranslations(locale);
     pageDesc={`${t.pages.tagDesc} "${tagName}".`}
   >
     <ul>
-      {page.data.map(data => <Card {...data} />)}
+      {page.data.map(entry =>
+        entry.collection === "events" ? (
+          <EventCard {...(entry as CollectionEntry<"events">)} />
+        ) : (
+          <Card {...(entry as CollectionEntry<"posts">)} />
+        )
+      )}
     </ul>
   </Main>
 
