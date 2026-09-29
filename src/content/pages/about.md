@@ -32,11 +32,32 @@ Ser reconocidos como el principal centro de innovación estudiantil a nivel acad
 
 ## Estructura
 
+### Comisión Directiva
+
 La dirección recae en una Comisión Directiva (Presidente, Vicepresidente, Secretario General, Tesorero), elegida por la Asamblea General de Miembros Activos.
 
-| Periodo   | Presidente   | Vicepresidente  | Secretaría General | Tesorería     |
-| --------- | ------------ | --------------- | ------------------ | ------------- |
-| 2026/2027 | Adán Alvarez | Alan Valenzuela | Heber Aranda       | Noelia Rotela |
+| Cargo              | Miembro         | Periodo |
+| ------------------ | --------------- | ------- |
+| Presidente         | Adán Alvarez    | 26/27   |
+| Vicepresidente     | Alan Valenzuela | 26/27   |
+| Secretaría General | Heber Aranda    | 26/27   |
+| Tesorería          | Noelia Rotela   | 26/27   |
+
+### Departamentos Operacionales
+
+| Dirección             | Miembro             | Periodo |
+| --------------------- | ------------------- | ------- |
+| Proyectos             | Christopher Mendoza | 26/27   |
+| Logística             | Matías Mareco       | 26/27   |
+| Comunicaciones        | Sheila Villanueva   | 26/27   |
+| Relaciones Exteriores | Samuel Alarcón      | 26/27   |
+
+### Síndico
+
+| Cargo            | Miembro       | Periodo |
+| ---------------- | ------------- | ------- |
+| Síndico Titular  | Rodrigo Novik | 26/27   |
+| Síndico Suplente | Martín Britos | 26/27   |
 
 ## Domicilio
 
