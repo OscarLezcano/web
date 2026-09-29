@@ -2,7 +2,7 @@
 title: "Matrix y no Discord"
 description: "Descubrí qué es Matrix, por qué es una alternativa descentralizada y cómo unirte al canal del Club de Informática."
 pubDatetime: 2026-09-29T14:16:00.000Z
-author: "Adán Alvarez"
+author: "Oscar Gabriel Lezcano Ortellado"
 draft: false
 tags:
   - guias
@@ -16,8 +16,6 @@ El Club de Informática tiene el agrado de presentarte nuestro nuevo canal de Ma
 Matrix es una red de mensajería abierta, descentralizada y segura. A diferencia de plataformas cerradas como Discord, Matrix está diseñada para que diferentes servidores hablen entre sí. No dependés de una sola empresa para mantener la infraestructura y podés elegir dónde alojar tu cuenta.
 
 Queremos un espacio que respete la privacidad y los derechos de sus usuarios. Matrix nos permite mantener una comunicación libre y transparente con total autonomía digital. Si queremos ser abiertos, nuestra plataforma debe reflejarlo.
-
----
 
 ## ¿Cómo empezar?
 
@@ -59,7 +57,5 @@ En la primera opcion verás la sección de *homeservers*, que son las distintas 
 
 ![alt text](@/assets/images/matrix-no-discord/paso-final.png)
 
-4. Unete a nuestro canal [Canal del CDI](https://app.cinny.in/!eNmc74kbme_onlPFkwus8y_9UCH8C1a1B5C8oqJJz6A/lobby) y disfruta :D
+3. Unete a nuestro canal [Canal del CDI](https://app.cinny.in/!eNmc74kbme_onlPFkwus8y_9UCH8C1a1B5C8oqJJz6A/lobby) y disfruta :D
 ![alt text](@/assets/images/matrix-no-discord/CDIServer.png)
-
----
