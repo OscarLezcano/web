@@ -32,7 +32,7 @@ Nacemos como una comunidad abierta y con objetivos claros: crear un ecosistema d
 | Presidente         | Adán Alvarez    |
 | Vicepresidente     | Alan Valenzuela |
 | Secretaría General | Heber Aranda    |
-| Tesoreríá          | Noelia Rotela   |
+| Tesorería          | Noelia Rotela   |
 
 ![Miembros de la Comisión Directiva izquierda a derecha: Noelia Rotela, Adán Alvarez, Alan Valenzuela, Heber Aranda](@/assets/images/cd.png)
 
@@ -57,6 +57,6 @@ Nacemos como una comunidad abierta y con objetivos claros: crear un ecosistema d
 
 ## ¿Querés sumarte?
 
-Estamos abriento nuestro llamado a nuevos miembros. Completá el siguiente [Formulario de Inscripción](https://forms.gle/y8vUQuYhniU3NVQz5) para ser Miembro Prospectivo del CDI. Sólo necesitas ser estudiante de grado de la Universidad Nacional de Itapúa.
+Estamos abriendo nuestro llamado a nuevos miembros. Completá el siguiente [Formulario de Inscripción](https://forms.gle/y8vUQuYhniU3NVQz5) para ser Miembro Prospectivo del CDI. Sólo necesitas ser estudiante de grado de la Universidad Nacional de Itapúa.
 
 Seguinos en nuestras redes para no perderte nada. ¡Bienvenido a esta comunidad!
