@@ -24,38 +24,38 @@ Queremos un espacio que respete la privacidad y los derechos de sus usuarios. Ma
 Podés conectarte desde el navegador o con una app en la PC o el celular. En el Club vamos a usar **Cinny** porque es simple, liviano y con un aire a Discord, pero podés usar el que quieras.
 
 Consultá la lista completa en [Clientes para Matrix](https://matrix.org/ecosystem/clients/).
-![alt text](@/assets/images/matrix-no-discord/clientes-de-matrix.png)
+![Listado de clientes disponibles para Matrix en matrix.org](@/assets/images/matrix-no-discord/clientes-de-matrix.png)
 
 ### 2. Creá tu cuenta
 
 1. Entrá a [Cinny](https://app.cinny.in/register/matrix.org/).
-En la primera opcion verás la sección de *homeservers*, que son las distintas instancias de Matrix en las que podés registrar tu cuenta. Para este paso, utilizaremos la que viene por defecto.
+En la primera opción verás la sección de *homeservers*, que son las distintas instancias de Matrix en las que podés registrar tu cuenta. Para este paso, utilizaremos la que viene por defecto.
 
 - Dale a **Continue with SSO**
-![alt text](@/assets/images/matrix-no-discord/cinny-register-1.png)
+![Pantalla de registro de Cinny con la lista de homeservers y la opción Continue with SSO](@/assets/images/matrix-no-discord/cinny-register-1.png)
 
 2. Podés elegir iniciar sesión con tu plataforma preferida o hacer clic en **Continue with email address** y seguir los pasos.
-![alt text](@/assets/images/matrix-no-discord/cinny-register-2.png)
+![Opciones de registro de Cinny para usar una plataforma o Continue with email address](@/assets/images/matrix-no-discord/cinny-register-2.png)
 
-- Completar con tus datos 
+- Completar con tus datos
 
-![alt text](@/assets/images/matrix-no-discord/crear-cuenta-con-correo.png)
+![Formulario de Cinny para completar los datos de la cuenta con correo electrónico](@/assets/images/matrix-no-discord/crear-cuenta-con-correo.png)
 
-- Recibir el codigo de verificarion
+- Recibir el código de verificación
 
-![alt text](@/assets/images/matrix-no-discord/codigo-correo.png)
+![Correo electrónico con el código de verificación de la cuenta](@/assets/images/matrix-no-discord/codigo-correo.png)
 
-- Ponerlo en la pagina
+- Ponerlo en la página
 
-![alt text](@/assets/images/matrix-no-discord/verificacion-code.png)
+![Campo de Cinny para ingresar el código de verificación recibido por correo](@/assets/images/matrix-no-discord/verificacion-code.png)
 
-- Elegir el nombre que se motrara luego darle a continuar
+- Elegir el nombre que se mostrará, luego darle a continuar
 
-![alt text](@/assets/images/matrix-no-discord/display-name.png)
+![Pantalla de Cinny para elegir el nombre de usuario que se mostrará](@/assets/images/matrix-no-discord/display-name.png)
 
 - Continuar
 
-![alt text](@/assets/images/matrix-no-discord/paso-final.png)
+![Último paso del registro en Cinny, con el botón para continuar](@/assets/images/matrix-no-discord/paso-final.png)
 
-3. Unete a nuestro canal [Canal del CDI](https://app.cinny.in/!eNmc74kbme_onlPFkwus8y_9UCH8C1a1B5C8oqJJz6A/lobby) y disfruta :D
-![alt text](@/assets/images/matrix-no-discord/CDIServer.png)
+3. Unite a nuestro canal [Canal del CDI](https://app.cinny.in/!eNmc74kbme_onlPFkwus8y_9UCH8C1a1B5C8oqJJz6A/lobby) y disfruta :D
+![Lobby del Canal del CDI dentro de Cinny](@/assets/images/matrix-no-discord/CDIServer.png)
