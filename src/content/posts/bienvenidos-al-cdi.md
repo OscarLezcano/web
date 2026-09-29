@@ -27,17 +27,23 @@ Nacemos como una comunidad abierta y con objetivos claros: crear un ecosistema d
 
 ### Comisión Directiva
 
-| Periodo   | Presidente   | Vicepresidente  | Secretaría General | Tesorería     |
-| --------- | ------------ | --------------- | ------------------ | ------------- |
-| 2026/2027 | Adán Alvarez | Alan Valenzuela | Heber Aranda       | Noelia Rotela |
+| Cargo              | Miembro         |
+| ------------------ | --------------- |
+| Presidente         | Adán Alvarez    |
+| Vicepresidente     | Alan Valenzuela |
+| Secretaría General | Heber Aranda    |
+| Tesoreríá          | Noelia Rotela   |
 
 ![Miembros de la Comisión Directiva izquierda a derecha: Noelia Rotela, Adán Alvarez, Alan Valenzuela, Heber Aranda](@/assets/images/cd.png)
 
 ### Departamentos Operacionales
 
-| Proyectos           | Logística     | Comunicaciones    | Relaciones Exteriores |
-| ------------------- | ------------- | ----------------- | --------------------- |
-| Christopher Mendoza | Matías Mareco | Sheila Villanueva | Samuel Alarcón        |
+| Departamento          | Miembro             |
+| --------------------- | ------------------- |
+| Proyectos             | Christopher Mendoza |
+| Logística             | Matías Mareco       |
+| Comunicaciones        | Sheila Villanueva   |
+| Relaciones Exteriores | Samuel Alarcón      |
 
 ![Directores Departamentos Operacionales izquierda a derecha: Sheila Villanueva, Samuel Alarcón, Christopher Mendoza, Matías Mareco](@/assets/images/directores.png)
 
